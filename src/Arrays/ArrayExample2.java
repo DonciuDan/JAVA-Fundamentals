@@ -1,6 +1,6 @@
 package Arrays;
 
-public class ArrayExample {
+public class ArrayExample2 {
     public static void main(String[] args) {
 
         int[] myIntArray = {5,10,43,54,12};
